@@ -5,7 +5,7 @@
     </v-ons-toolbar>
 
     <p style="text-align: center">
-      <v-ons-button @click="$ons.notification.alert('Hello World!')">
+      <v-ons-button @click="$ons.notification.alert('( ･ὢ･ ) ﾑﾑｯ')">
         Click me!
       </v-ons-button>
     </p>
