@@ -34,5 +34,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-キャッシュ効率良い仕方など知見が欲しい(o*｡_｡)o
