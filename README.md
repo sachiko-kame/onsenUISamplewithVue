@@ -1,7 +1,7 @@
 # miniminiSampleApp (#PWA #SPA #Onsen UI #workbox)
 [PWAチュートリアル、googleのソース中からpngを使わさせていただきました。](https://codelabs.developers.google.com/codelabs/your-first-pwapp-ja/#1)
 
-[こちらのSample場所(いつかなくす予定)](https://miniminiapp-4a450.firebaseapp.com/)
+[こちらのSample場所(いつかなくす予定)後、中身は随時変更しています。](https://miniminiapp-4a450.firebaseapp.com/)
 
 ## Android_gif
 <img width="250" alt="lookAndroid" src="https://github.com/sachiko-kame/onsenUISamplewithVue/blob/develop/minidemo.gif">
