@@ -5,7 +5,7 @@
   </v-ons-toolbar>
   <ons-list v-for="item in items">
     <ons-list-item>
-      <sample v-bind:item="item"></sample>
+      <sample v-bind:item="item" v-bind:isShow="false"></sample>
     </ons-list-item>
   </ons-list>
 </v-ons-page>
@@ -20,7 +20,7 @@ export default {
   },
   data: function() {
     return {
-      items: ["1", "2", "3"]
+      items: ["りんご", "トマト", "レモン", "パイナップル", "牛丼", ]
     }
   }
 
