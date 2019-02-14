@@ -1,5 +1,11 @@
-<template>
-  <div class="hello">
+<template id="hello">
+  <v-ons-page>
+  <div>
+    <v-ons-toolbar>
+      <div class="left">
+        <v-ons-back-button>Back</v-ons-back-button>
+      </div>
+    </v-ons-toolbar>
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
@@ -28,6 +34,7 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
   </div>
+</v-ons-page>
 </template>
 
 <script>
